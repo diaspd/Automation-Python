@@ -30,7 +30,7 @@ $ run on your editor
 
 ## 💻 Technologies
 
-Esse projeto foi desenvolvido com as seguinte tecnologia:
+This project was developed with the following technologies:
 
 -Python
 
