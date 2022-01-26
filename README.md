@@ -40,7 +40,7 @@ This project was developed with the following technologie:
 💰Bot in python to do some kind of stuff and send e-mails to people
 
 <br></br>
-Feito com ♥ by Pedro Dias :wave: (😎)<br></br>
+Feito com ♥ by Pedro Dias. 👋 Me siga nas redes sociais! <br></br>
 https://www.instagram.com/dias_pdr/ <br></br>
 https://www.facebook.com/PedroDias24/<br></br>
 https://twitter.com/diaspdr_1<br></br>
