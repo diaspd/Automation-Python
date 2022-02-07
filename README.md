@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-Technologies"><b>Technologies<b/></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Project"><b>Project<b/></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -37,7 +37,7 @@ This project was developed with the following technologie:
 <br></br>
 
 ## 📈 Project
-💰Bot in python to do some kind of stuff and send e-mails to people
+💰Bot in python to do some kind of stuff and send e-mails to people.
 
 <br></br>
 Feito com ♥ by Pedro Dias. 👋 Me siga nas redes sociais! <br></br>
