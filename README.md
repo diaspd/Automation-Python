@@ -32,7 +32,7 @@ $ run on your editor
 
 This project was developed with the following technologie:
 
--Python
+- Python
 
 <br></br>
 
